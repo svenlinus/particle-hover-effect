@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#music {
+  margin-top: 10rem;
+  cursor: pointer;
+}
