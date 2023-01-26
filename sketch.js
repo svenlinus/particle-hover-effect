@@ -1,7 +1,7 @@
 const el = document.getElementById('music');
 el.addEventListener('mouseover', () => {
-  el.src = 'money.gif';
+  el.src = 'money2.gif';
 });
 el.addEventListener('mouseout', () => {
-  el.src = 'reverse-money.gif';
+  el.src = 'reverse-money2.gif';
 });
